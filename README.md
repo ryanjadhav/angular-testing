@@ -1,4 +1,4 @@
 angular-testing
 ===============
 
-trying out angular
+trying out angular for the first time
